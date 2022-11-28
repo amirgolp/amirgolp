@@ -8,9 +8,6 @@
   <a href="http://amirgolp.pythonanywhere.com/">
     <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=amirgolp&style=flat-square&color=blue" alt=""/ >
 <h1>
